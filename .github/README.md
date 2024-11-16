@@ -12,23 +12,23 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../m-26.jp/a_person_on_a_beach.jpg"><img alt="a_person_on_a_beach" src="../m-26.jp/a_person_on_a_beach.jpg"></a><br/><br/>
 
-<a href="../m-26.jp/a_deck_with_trees_and_a_railing.jpg"><img alt="a_deck_with_trees_and_a_railing" src="../m-26.jp/a_deck_with_trees_and_a_railing.jpg"></a><br/><br/>
+<a href="../m-26.jp/a_cartoon_of_a_woman_and_a_boy_sleeping_in_a_car.jpg"><img alt="a_cartoon_of_a_woman_and_a_boy_sleeping_in_a_car" src="../m-26.jp/a_cartoon_of_a_woman_and_a_boy_sleeping_in_a_car.jpg"></a><br/><br/>
 
 [Browse](../m-26.jp/README.md)
 
 ## aerial
 
-<a href="../aerial/waves_crashing_on_rocks.png"><img alt="waves_crashing_on_rocks" src="../aerial/waves_crashing_on_rocks.png"></a><br/><br/>
+<a href="../aerial/aerial_view_of_a_city_at_night_01.jpg"><img alt="aerial_view_of_a_city_at_night_01" src="../aerial/aerial_view_of_a_city_at_night_01.jpg"></a><br/><br/>
 
-<a href="../aerial/a_aerial_view_of_a_snowy_mountain_range_01.jpg"><img alt="a_aerial_view_of_a_snowy_mountain_range_01" src="../aerial/a_aerial_view_of_a_snowy_mountain_range_01.jpg"></a><br/><br/>
+<a href="../aerial/a_cup_of_coffee_with_foam.jpg"><img alt="a_cup_of_coffee_with_foam" src="../aerial/a_cup_of_coffee_with_foam.jpg"></a><br/><br/>
 
 [Browse](../aerial/README.md)
 
 ## basalt
 
-<a href="../basalt/a_rock_arch_over_water.jpg"><img alt="a_rock_arch_over_water" src="../basalt/a_rock_arch_over_water.jpg"></a><br/><br/>
+<a href="../basalt/a_road_with_a_road_in_the_middle_of_a_river.jpg"><img alt="a_road_with_a_road_in_the_middle_of_a_river" src="../basalt/a_road_with_a_road_in_the_middle_of_a_river.jpg"></a><br/><br/>
 
-<a href="../basalt/a_cave_in_a_rocky_area.jpg"><img alt="a_cave_in_a_rocky_area" src="../basalt/a_cave_in_a_rocky_area.jpg"></a><br/><br/>
+<a href="../basalt/a_waterfall_in_the_snow.jpg"><img alt="a_waterfall_in_the_snow" src="../basalt/a_waterfall_in_the_snow.jpg"></a><br/><br/>
 
 [Browse](../basalt/README.md)
 
@@ -40,69 +40,63 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## programming
 
-<a href="../programming/gk4cplcv63v61.png"><img alt="gk4cplcv63v61" src="../programming/gk4cplcv63v61.png"></a><br/><br/>
+<a href="../programming/MC5jSlb.png"><img alt="MC5jSlb" src="../programming/MC5jSlb.png"></a><br/><br/>
 
-<a href="../programming/markus-spiske-70Rir5vB96U-unsplash.jpg"><img alt="markus-spiske-70Rir5vB96U-unsplash" src="../programming/markus-spiske-70Rir5vB96U-unsplash.jpg"></a><br/><br/>
+<a href="../programming/luca-bravo-XJXWbfSo2f0-unsplash.jpg"><img alt="luca-bravo-XJXWbfSo2f0-unsplash" src="../programming/luca-bravo-XJXWbfSo2f0-unsplash.jpg"></a><br/><br/>
 
 [Browse](../programming/README.md)
 
-## cat_mobile
-
-<a href="../cat_mobile/Barron_241001_0149_Edit.jpg"><img alt="Barron_241001_0149_Edit" src="../cat_mobile/Barron_241001_0149_Edit.jpg"></a><br/><br/>
-
-[Browse](../cat_mobile/README.md)
-
 ## anime
 
-<a href="../anime/a_yellow_and_green_background_with_many_small_white_objects.png"><img alt="a_yellow_and_green_background_with_many_small_white_objects" src="../anime/a_yellow_and_green_background_with_many_small_white_objects.png"></a><br/><br/>
+<a href="../anime/a_cartoon_of_a_creature.jpg"><img alt="a_cartoon_of_a_creature" src="../anime/a_cartoon_of_a_creature.jpg"></a><br/><br/>
 
-<a href="../anime/a_cartoon_of_a_girl_sitting_on_a_pink_chair_with_a_teddy_bear.png"><img alt="a_cartoon_of_a_girl_sitting_on_a_pink_chair_with_a_teddy_bear" src="../anime/a_cartoon_of_a_girl_sitting_on_a_pink_chair_with_a_teddy_bear.png"></a><br/><br/>
+<a href="../anime/a_woman_in_a_red_dress_sitting_in_front_of_a_gas_station.jpg"><img alt="a_woman_in_a_red_dress_sitting_in_front_of_a_gas_station" src="../anime/a_woman_in_a_red_dress_sitting_in_front_of_a_gas_station.jpg"></a><br/><br/>
 
 [Browse](../anime/README.md)
 
 ## poly
 
-<a href="../poly/a_green_mountains_with_pink_and_blue_sky.jpg"><img alt="a_green_mountains_with_pink_and_blue_sky" src="../poly/a_green_mountains_with_pink_and_blue_sky.jpg"></a><br/><br/>
+<a href="../poly/a_black_and_white_photo_of_a_city.png"><img alt="a_black_and_white_photo_of_a_city" src="../poly/a_black_and_white_photo_of_a_city.png"></a><br/><br/>
 
-<a href="../poly/a_group_of_old_computer_equipment.png"><img alt="a_group_of_old_computer_equipment" src="../poly/a_group_of_old_computer_equipment.png"></a><br/><br/>
+<a href="../poly/a_video_game_screen_with_a_diamond_and_green_lights.png"><img alt="a_video_game_screen_with_a_diamond_and_green_lights" src="../poly/a_video_game_screen_with_a_diamond_and_green_lights.png"></a><br/><br/>
 
 [Browse](../poly/README.md)
 
 ## solarized
 
-<a href="../solarized/a_blue_and_white_graphic_of_a_bird.jpg"><img alt="a_blue_and_white_graphic_of_a_bird" src="../solarized/a_blue_and_white_graphic_of_a_bird.jpg"></a><br/><br/>
+<a href="../solarized/a_blue_drawing_of_a_heart.jpg"><img alt="a_blue_drawing_of_a_heart" src="../solarized/a_blue_drawing_of_a_heart.jpg"></a><br/><br/>
 
-<a href="../solarized/a_blue_dragon_with_a_banner.jpg"><img alt="a_blue_dragon_with_a_banner" src="../solarized/a_blue_dragon_with_a_banner.jpg"></a><br/><br/>
+<a href="../solarized/a_planet_in_space_with_clouds.jpg"><img alt="a_planet_in_space_with_clouds" src="../solarized/a_planet_in_space_with_clouds.jpg"></a><br/><br/>
 
 [Browse](../solarized/README.md)
 
 ## abstract
 
-<a href="../abstract/a_painting_of_a_mountain.png"><img alt="a_painting_of_a_mountain" src="../abstract/a_painting_of_a_mountain.png"></a><br/><br/>
+<a href="../abstract/a_painting_of_a_man_with_a_face_on_his_head.png"><img alt="a_painting_of_a_man_with_a_face_on_his_head" src="../abstract/a_painting_of_a_man_with_a_face_on_his_head.png"></a><br/><br/>
 
-<a href="../abstract/a_man_and_woman_eating_food.jpg"><img alt="a_man_and_woman_eating_food" src="../abstract/a_man_and_woman_eating_food.jpg"></a><br/><br/>
+<a href="../abstract/a_colorful_background_with_different_shapes_and_patterns.png"><img alt="a_colorful_background_with_different_shapes_and_patterns" src="../abstract/a_colorful_background_with_different_shapes_and_patterns.png"></a><br/><br/>
 
 [Browse](../abstract/README.md)
 
 ## apeiros
 
-<a href="../apeiros/a_foggy_forest_with_trees.png"><img alt="a_foggy_forest_with_trees" src="../apeiros/a_foggy_forest_with_trees.png"></a><br/><br/>
+<a href="../apeiros/a_group_of_tall_buildings_with_fog.png"><img alt="a_group_of_tall_buildings_with_fog" src="../apeiros/a_group_of_tall_buildings_with_fog.png"></a><br/><br/>
 
-<a href="../apeiros/a_large_rock_in_the_middle_of_a_body_of_water.png"><img alt="a_large_rock_in_the_middle_of_a_body_of_water" src="../apeiros/a_large_rock_in_the_middle_of_a_body_of_water.png"></a><br/><br/>
+<a href="../apeiros/a_foggy_forest_with_trees.png"><img alt="a_foggy_forest_with_trees" src="../apeiros/a_foggy_forest_with_trees.png"></a><br/><br/>
 
 [Browse](../apeiros/README.md)
 
 ## spam
 
-<a href="../spam/a_city_with_neon_lights.png"><img alt="a_city_with_neon_lights" src="../spam/a_city_with_neon_lights.png"></a><br/><br/>
-
 <a href="../spam/a_pixel_art_of_a_sword_and_whale.png"><img alt="a_pixel_art_of_a_sword_and_whale" src="../spam/a_pixel_art_of_a_sword_and_whale.png"></a><br/><br/>
+
+<a href="../spam/a_logo_with_lines_and_rays.jpg"><img alt="a_logo_with_lines_and_rays" src="../spam/a_logo_with_lines_and_rays.jpg"></a><br/><br/>
 
 [Browse](../spam/README.md)
 
 ## logo
 
-<a href="../logo/a_screenshot_of_a_video_game.png"><img alt="a_screenshot_of_a_video_game" src="../logo/a_screenshot_of_a_video_game.png"></a><br/><br/>
+<a href="../logo/a_logo_with_circles_and_text.png"><img alt="a_logo_with_circles_and_text" src="../logo/a_logo_with_circles_and_text.png"></a><br/><br/>
 
 <a href="../logo/a_green_and_blue_rectangular_sign_with_a_drawing_of_a_tree.png"><img alt="a_green_and_blue_rectangular_sign_with_a_drawing_of_a_tree" src="../logo/a_green_and_blue_rectangular_sign_with_a_drawing_of_a_tree.png"></a><br/><br/>
 
@@ -110,15 +104,15 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## wave
 
-<a href="../wave/a_sunset_over_a_body_of_water_with_Marfa_lights_in_the_background.png"><img alt="a_sunset_over_a_body_of_water_with_Marfa_lights_in_the_background" src="../wave/a_sunset_over_a_body_of_water_with_Marfa_lights_in_the_background.png"></a><br/><br/>
-
 <a href="../wave/a_plant_in_front_of_a_window.png"><img alt="a_plant_in_front_of_a_window" src="../wave/a_plant_in_front_of_a_window.png"></a><br/><br/>
+
+<a href="../wave/a_sunset_over_a_body_of_water_with_Marfa_lights_in_the_background.png"><img alt="a_sunset_over_a_body_of_water_with_Marfa_lights_in_the_background" src="../wave/a_sunset_over_a_body_of_water_with_Marfa_lights_in_the_background.png"></a><br/><br/>
 
 [Browse](../wave/README.md)
 
 ## paper
 
-<a href="../paper/a_pattern_of_flowers_and_leaves_01.jpg"><img alt="a_pattern_of_flowers_and_leaves_01" src="../paper/a_pattern_of_flowers_and_leaves_01.jpg"></a><br/><br/>
+<a href="../paper/a_floral_pattern_of_flowers.png"><img alt="a_floral_pattern_of_flowers" src="../paper/a_floral_pattern_of_flowers.png"></a><br/><br/>
 
 <a href="../paper/a_pattern_of_leaves_and_flowers.jpg"><img alt="a_pattern_of_leaves_and_flowers" src="../paper/a_pattern_of_leaves_and_flowers.jpg"></a><br/><br/>
 
@@ -126,9 +120,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## nord
 
-<a href="../nord/a_graphic_of_a_wave.png"><img alt="a_graphic_of_a_wave" src="../nord/a_graphic_of_a_wave.png"></a><br/><br/>
+<a href="../nord/a_large_mountain_with_a_body_of_water.jpg"><img alt="a_large_mountain_with_a_body_of_water" src="../nord/a_large_mountain_with_a_body_of_water.jpg"></a><br/><br/>
 
-<a href="../nord/a_close_up_of_a_flower.png"><img alt="a_close_up_of_a_flower" src="../nord/a_close_up_of_a_flower.png"></a><br/><br/>
+<a href="../nord/a_windmill_in_the_sky.png"><img alt="a_windmill_in_the_sky" src="../nord/a_windmill_in_the_sky.png"></a><br/><br/>
 
 [Browse](../nord/README.md)
 
@@ -136,15 +130,15 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../chillop/a_hand_holding_a_cassette_tape.jpg"><img alt="a_hand_holding_a_cassette_tape" src="../chillop/a_hand_holding_a_cassette_tape.jpg"></a><br/><br/>
 
-<a href="../chillop/a_cartoon_of_a_cat_in_a_glass.png"><img alt="a_cartoon_of_a_cat_in_a_glass" src="../chillop/a_cartoon_of_a_cat_in_a_glass.png"></a><br/><br/>
+<a href="../chillop/a_cartoon_of_a_cat.png"><img alt="a_cartoon_of_a_cat" src="../chillop/a_cartoon_of_a_cat.png"></a><br/><br/>
 
 [Browse](../chillop/README.md)
 
 ## evangelion
 
-<a href="../evangelion/a_cartoon_of_a_monster.png"><img alt="a_cartoon_of_a_monster" src="../evangelion/a_cartoon_of_a_monster.png"></a><br/><br/>
+<a href="../evangelion/a_plant_with_flowers_on_it.png"><img alt="a_plant_with_flowers_on_it" src="../evangelion/a_plant_with_flowers_on_it.png"></a><br/><br/>
 
-<a href="../evangelion/a_cartoon_of_a_purple_animal.jpg"><img alt="a_cartoon_of_a_purple_animal" src="../evangelion/a_cartoon_of_a_purple_animal.jpg"></a><br/><br/>
+<a href="../evangelion/a_blue_diamond_shaped_object_with_a_red_string.jpg"><img alt="a_blue_diamond_shaped_object_with_a_red_string" src="../evangelion/a_blue_diamond_shaped_object_with_a_red_string.jpg"></a><br/><br/>
 
 [Browse](../evangelion/README.md)
 
@@ -152,7 +146,7 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../weirdcore/a_cat_looking_at_the_camera.png"><img alt="a_cat_looking_at_the_camera" src="../weirdcore/a_cat_looking_at_the_camera.png"></a><br/><br/>
 
-<a href="../weirdcore/a_close_up_of_a_monster's_face.png"><img alt="a_close_up_of_a_monster's_face" src="../weirdcore/a_close_up_of_a_monster's_face.png"></a><br/><br/>
+<a href="../weirdcore/a_red_and_blue_image_of_a_woman's_face.png"><img alt="a_red_and_blue_image_of_a_woman's_face" src="../weirdcore/a_red_and_blue_image_of_a_woman's_face.png"></a><br/><br/>
 
 [Browse](../weirdcore/README.md)
 
@@ -166,49 +160,49 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## apocalypse
 
-<a href="../apocalypse/cars_on_a_train_track.jpg"><img alt="cars_on_a_train_track" src="../apocalypse/cars_on_a_train_track.jpg"></a><br/><br/>
+<a href="../apocalypse/a_building_with_traffic_cones_and_cars_in_the_rain.jpg"><img alt="a_building_with_traffic_cones_and_cars_in_the_rain" src="../apocalypse/a_building_with_traffic_cones_and_cars_in_the_rain.jpg"></a><br/><br/>
 
-<a href="../apocalypse/a_woman_standing_in_front_of_a_window.jpg"><img alt="a_woman_standing_in_front_of_a_window" src="../apocalypse/a_woman_standing_in_front_of_a_window.jpg"></a><br/><br/>
+<a href="../apocalypse/a_car_parked_in_a_dark_alley.jpg"><img alt="a_car_parked_in_a_dark_alley" src="../apocalypse/a_car_parked_in_a_dark_alley.jpg"></a><br/><br/>
 
 [Browse](../apocalypse/README.md)
 
 ## interior
 
-<a href="../interior/a_green_plant_in_a_pot.jpg"><img alt="a_green_plant_in_a_pot" src="../interior/a_green_plant_in_a_pot.jpg"></a><br/><br/>
+<a href="../interior/a_potted_plant_on_a_blue_surface.jpg"><img alt="a_potted_plant_on_a_blue_surface" src="../interior/a_potted_plant_on_a_blue_surface.jpg"></a><br/><br/>
 
-<a href="../interior/a_white_wall_with_a_blue_couch_and_a_lamp.jpg"><img alt="a_white_wall_with_a_blue_couch_and_a_lamp" src="../interior/a_white_wall_with_a_blue_couch_and_a_lamp.jpg"></a><br/><br/>
+<a href="../interior/a_table_with_a_vase_of_fruit_and_a_pitcher_of_water.jpg"><img alt="a_table_with_a_vase_of_fruit_and_a_pitcher_of_water" src="../interior/a_table_with_a_vase_of_fruit_and_a_pitcher_of_water.jpg"></a><br/><br/>
 
 [Browse](../interior/README.md)
 
 ## drone_day
 
-<a href="../drone_day/LakeChapin_201106_0005.jpg"><img alt="LakeChapin_201106_0005" src="../drone_day/LakeChapin_201106_0005.jpg"></a><br/><br/>
+<a href="../drone_day/Riverfest_RiverfrontPk_210805_0009_Edit.jpg"><img alt="Riverfest_RiverfrontPk_210805_0009_Edit" src="../drone_day/Riverfest_RiverfrontPk_210805_0009_Edit.jpg"></a><br/><br/>
 
-<a href="../drone_day/200704_0915.jpg"><img alt="200704_0915" src="../drone_day/200704_0915.jpg"></a><br/><br/>
+<a href="../drone_day/200704_0913.jpg"><img alt="200704_0913" src="../drone_day/200704_0913.jpg"></a><br/><br/>
 
 [Browse](../drone_day/README.md)
 
 ## unsorted
 
-<a href="../unsorted/a_group_of_sailboats_with_red_and_blue_writing.jpg"><img alt="a_group_of_sailboats_with_red_and_blue_writing" src="../unsorted/a_group_of_sailboats_with_red_and_blue_writing.jpg"></a><br/><br/>
+<a href="../unsorted/a_group_of_jellyfish_under_water.jpg"><img alt="a_group_of_jellyfish_under_water" src="../unsorted/a_group_of_jellyfish_under_water.jpg"></a><br/><br/>
 
-<a href="../unsorted/a_cartoon_of_a_person_wearing_a_gas_mask.jpg"><img alt="a_cartoon_of_a_person_wearing_a_gas_mask" src="../unsorted/a_cartoon_of_a_person_wearing_a_gas_mask.jpg"></a><br/><br/>
+<a href="../unsorted/a_white_car_parked_on_a_brick_road.png"><img alt="a_white_car_parked_on_a_brick_road" src="../unsorted/a_white_car_parked_on_a_brick_road.png"></a><br/><br/>
 
 [Browse](../unsorted/README.md)
 
 ## mountain
 
-<a href="../mountain/a_mountain_range_with_snow_on_top_01.jpg"><img alt="a_mountain_range_with_snow_on_top_01" src="../mountain/a_mountain_range_with_snow_on_top_01.jpg"></a><br/><br/>
+<a href="../mountain/a_mountain_with_snow_and_clouds_01.jpg"><img alt="a_mountain_with_snow_and_clouds_01" src="../mountain/a_mountain_with_snow_and_clouds_01.jpg"></a><br/><br/>
 
-<a href="../mountain/a_snowy_mountain_tops_with_clouds_in_the_background.png"><img alt="a_snowy_mountain_tops_with_clouds_in_the_background" src="../mountain/a_snowy_mountain_tops_with_clouds_in_the_background.png"></a><br/><br/>
+<a href="../mountain/a_river_in_a_snowy_landscape.jpg"><img alt="a_river_in_a_snowy_landscape" src="../mountain/a_river_in_a_snowy_landscape.jpg"></a><br/><br/>
 
 [Browse](../mountain/README.md)
 
 ## manga
 
-<a href="../manga/a_cartoon_of_a_girl_sitting_in_a_room_with_a_group_of_people.png"><img alt="a_cartoon_of_a_girl_sitting_in_a_room_with_a_group_of_people" src="../manga/a_cartoon_of_a_girl_sitting_in_a_room_with_a_group_of_people.png"></a><br/><br/>
+<a href="../manga/a_man_reading_a_book.jpg"><img alt="a_man_reading_a_book" src="../manga/a_man_reading_a_book.jpg"></a><br/><br/>
 
-<a href="../manga/a_black_and_white_image_of_a_woman_with_her_hand_on_her_face.jpeg"><img alt="a_black_and_white_image_of_a_woman_with_her_hand_on_her_face" src="../manga/a_black_and_white_image_of_a_woman_with_her_hand_on_her_face.jpeg"></a><br/><br/>
+<a href="../manga/a_black_and_white_drawing_of_a_man_holding_a_sword.jpg"><img alt="a_black_and_white_drawing_of_a_man_holding_a_sword" src="../manga/a_black_and_white_drawing_of_a_man_holding_a_sword.jpg"></a><br/><br/>
 
 [Browse](../manga/README.md)
 
@@ -222,17 +216,17 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## calm
 
-<a href="../calm/a_group_of_wooden_posts_in_water.jpg"><img alt="a_group_of_wooden_posts_in_water" src="../calm/a_group_of_wooden_posts_in_water.jpg"></a><br/><br/>
+<a href="../calm/a_rocky_landscape_with_trees_and_water_in_the_background.jpg"><img alt="a_rocky_landscape_with_trees_and_water_in_the_background" src="../calm/a_rocky_landscape_with_trees_and_water_in_the_background.jpg"></a><br/><br/>
 
-<a href="../calm/a_wooden_bridge_with_railings_and_a_person_walking_on_it.jpg"><img alt="a_wooden_bridge_with_railings_and_a_person_walking_on_it" src="../calm/a_wooden_bridge_with_railings_and_a_person_walking_on_it.jpg"></a><br/><br/>
+<a href="../calm/a_road_leading_to_mountains.jpg"><img alt="a_road_leading_to_mountains" src="../calm/a_road_leading_to_mountains.jpg"></a><br/><br/>
 
 [Browse](../calm/README.md)
 
 ## outrun
 
-<a href="../outrun/a_person_wearing_headphones.png"><img alt="a_person_wearing_headphones" src="../outrun/a_person_wearing_headphones.png"></a><br/><br/>
+<a href="../outrun/a_person's_feet_in_a_car.png"><img alt="a_person's_feet_in_a_car" src="../outrun/a_person's_feet_in_a_car.png"></a><br/><br/>
 
-<a href="../outrun/a_street_with_buildings_and_signs.png"><img alt="a_street_with_buildings_and_signs" src="../outrun/a_street_with_buildings_and_signs.png"></a><br/><br/>
+<a href="../outrun/a_person_wearing_headphones.png"><img alt="a_person_wearing_headphones" src="../outrun/a_person_wearing_headphones.png"></a><br/><br/>
 
 [Browse](../outrun/README.md)
 
@@ -240,71 +234,71 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../stalenhag/a_snow_covered_road_with_two_large_machines.jpg"><img alt="a_snow_covered_road_with_two_large_machines" src="../stalenhag/a_snow_covered_road_with_two_large_machines.jpg"></a><br/><br/>
 
-<a href="../stalenhag/a_group_of_people_walking_in_a_field_with_a_round_object_in_the_foreground.jpg"><img alt="a_group_of_people_walking_in_a_field_with_a_round_object_in_the_foreground" src="../stalenhag/a_group_of_people_walking_in_a_field_with_a_round_object_in_the_foreground.jpg"></a><br/><br/>
+<a href="../stalenhag/a_bird_on_a_statue.jpg"><img alt="a_bird_on_a_statue" src="../stalenhag/a_bird_on_a_statue.jpg"></a><br/><br/>
 
 [Browse](../stalenhag/README.md)
 
 ## radium
 
-<a href="../radium/a_black_background_with_green_and_blue_squares.jpg"><img alt="a_black_background_with_green_and_blue_squares" src="../radium/a_black_background_with_green_and_blue_squares.jpg"></a><br/><br/>
+<a href="../radium/a_drawing_of_an_astronaut_in_space.png"><img alt="a_drawing_of_an_astronaut_in_space" src="../radium/a_drawing_of_an_astronaut_in_space.png"></a><br/><br/>
 
-<a href="../radium/a_group_of_flowers_on_a_black_background.png"><img alt="a_group_of_flowers_on_a_black_background" src="../radium/a_group_of_flowers_on_a_black_background.png"></a><br/><br/>
+<a href="../radium/a_black_background_with_green_and_blue_squares.jpg"><img alt="a_black_background_with_green_and_blue_squares" src="../radium/a_black_background_with_green_and_blue_squares.jpg"></a><br/><br/>
 
 [Browse](../radium/README.md)
 
 ## decay
 
-<a href="../decay/a_pile_of_old_playing_cards.jpg"><img alt="a_pile_of_old_playing_cards" src="../decay/a_pile_of_old_playing_cards.jpg"></a><br/><br/>
+<a href="../decay/a_van_in_a_field_with_a_bicycle_and_a_mountain_in_the_background.jpg"><img alt="a_van_in_a_field_with_a_bicycle_and_a_mountain_in_the_background" src="../decay/a_van_in_a_field_with_a_bicycle_and_a_mountain_in_the_background.jpg"></a><br/><br/>
 
-<a href="../decay/an_old_truck_in_the_desert.jpg"><img alt="an_old_truck_in_the_desert" src="../decay/an_old_truck_in_the_desert.jpg"></a><br/><br/>
+<a href="../decay/an_airplane_that_has_been_crashed_on_a_black_sand_beach.jpg"><img alt="an_airplane_that_has_been_crashed_on_a_black_sand_beach" src="../decay/an_airplane_that_has_been_crashed_on_a_black_sand_beach.jpg"></a><br/><br/>
 
 [Browse](../decay/README.md)
 
 ## pixel
 
-<a href="../pixel/a_pixel_art_of_a_city_street.png"><img alt="a_pixel_art_of_a_city_street" src="../pixel/a_pixel_art_of_a_city_street.png"></a><br/><br/>
+<a href="../pixel/a_purple_cube_with_a_black_circle_and_buttons.jpg"><img alt="a_purple_cube_with_a_black_circle_and_buttons" src="../pixel/a_purple_cube_with_a_black_circle_and_buttons.jpg"></a><br/><br/>
 
-<a href="../pixel/a_video_game_screen_with_trees_and_bushes.jpg"><img alt="a_video_game_screen_with_trees_and_bushes" src="../pixel/a_video_game_screen_with_trees_and_bushes.jpg"></a><br/><br/>
+<a href="../pixel/a_pixel_art_of_a_city_street.png"><img alt="a_pixel_art_of_a_city_street" src="../pixel/a_pixel_art_of_a_city_street.png"></a><br/><br/>
 
 [Browse](../pixel/README.md)
 
 ## circuit
 
-<a href="../circuit/vishnu-mohanan-2YfhLptMxsg-unsplash.jpg"><img alt="vishnu-mohanan-2YfhLptMxsg-unsplash" src="../circuit/vishnu-mohanan-2YfhLptMxsg-unsplash.jpg"></a><br/><br/>
+<a href="../circuit/kdwk-leung-X3SQW-rBJdQ-unsplash.jpg"><img alt="kdwk-leung-X3SQW-rBJdQ-unsplash" src="../circuit/kdwk-leung-X3SQW-rBJdQ-unsplash.jpg"></a><br/><br/>
 
-<a href="../circuit/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"><img alt="alexandre-debieve-FO7JIlwjOtU-unsplash" src="../circuit/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"></a><br/><br/>
+<a href="../circuit/liam-briese-lYxQ5F9xBDM-unsplash.jpg"><img alt="liam-briese-lYxQ5F9xBDM-unsplash" src="../circuit/liam-briese-lYxQ5F9xBDM-unsplash.jpg"></a><br/><br/>
 
 [Browse](../circuit/README.md)
 
 ## monochrome
 
-<a href="../monochrome/a_microphone_on_a_stand.jpg"><img alt="a_microphone_on_a_stand" src="../monochrome/a_microphone_on_a_stand.jpg"></a><br/><br/>
+<a href="../monochrome/a_rocky_beach_with_waves_crashing_onto_rocks.jpg"><img alt="a_rocky_beach_with_waves_crashing_onto_rocks" src="../monochrome/a_rocky_beach_with_waves_crashing_onto_rocks.jpg"></a><br/><br/>
 
-<a href="../monochrome/a_foggy_landscape_with_trees_and_clouds.jpg"><img alt="a_foggy_landscape_with_trees_and_clouds" src="../monochrome/a_foggy_landscape_with_trees_and_clouds.jpg"></a><br/><br/>
+<a href="../monochrome/a_person_sitting_on_a_wall.png"><img alt="a_person_sitting_on_a_wall" src="../monochrome/a_person_sitting_on_a_wall.png"></a><br/><br/>
 
 [Browse](../monochrome/README.md)
 
 ## cold
 
-<a href="../cold/a_person_standing_on_a_rocky_cliff.png"><img alt="a_person_standing_on_a_rocky_cliff" src="../cold/a_person_standing_on_a_rocky_cliff.png"></a><br/><br/>
+<a href="../cold/a_train_tracks_in_a_foggy_day.jpg"><img alt="a_train_tracks_in_a_foggy_day" src="../cold/a_train_tracks_in_a_foggy_day.jpg"></a><br/><br/>
 
-<a href="../cold/a_black_sand_beach_with_waves_and_clouds_above.jpg"><img alt="a_black_sand_beach_with_waves_and_clouds_above" src="../cold/a_black_sand_beach_with_waves_and_clouds_above.jpg"></a><br/><br/>
+<a href="../cold/clouds_above_a_mountain.png"><img alt="clouds_above_a_mountain" src="../cold/clouds_above_a_mountain.png"></a><br/><br/>
 
 [Browse](../cold/README.md)
 
 ## drone_night
 
-<a href="../drone_night/WEKO_210608_0016_EDIT_Edit.jpg"><img alt="WEKO_210608_0016_EDIT_Edit" src="../drone_night/WEKO_210608_0016_EDIT_Edit.jpg"></a><br/><br/>
+<a href="../drone_night/WEKO_210608_0002_EDIT_Edit.jpg"><img alt="WEKO_210608_0002_EDIT_Edit" src="../drone_night/WEKO_210608_0002_EDIT_Edit.jpg"></a><br/><br/>
 
-<a href="../drone_night/WEKO_210608_0027_EDIT_Edit.jpg"><img alt="WEKO_210608_0027_EDIT_Edit" src="../drone_night/WEKO_210608_0027_EDIT_Edit.jpg"></a><br/><br/>
+<a href="../drone_night/WEKO_210608_0043_EDIT_Edit.jpg"><img alt="WEKO_210608_0043_EDIT_Edit" src="../drone_night/WEKO_210608_0043_EDIT_Edit.jpg"></a><br/><br/>
 
 [Browse](../drone_night/README.md)
 
 ## games
 
-<a href="../games/8045532.png"><img alt="8045532" src="../games/8045532.png"></a><br/><br/>
+<a href="../games/outer-space-4r-2560x1440.jpg"><img alt="outer-space-4r-2560x1440" src="../games/outer-space-4r-2560x1440.jpg"></a><br/><br/>
 
-<a href="../games/7rjtf3raovf31.png"><img alt="7rjtf3raovf31" src="../games/7rjtf3raovf31.png"></a><br/><br/>
+<a href="../games/super-mario-tv-vintage-artwork-4k-41-1920x1200.jpg"><img alt="super-mario-tv-vintage-artwork-4k-41-1920x1200" src="../games/super-mario-tv-vintage-artwork-4k-41-1920x1200.jpg"></a><br/><br/>
 
 [Browse](../games/README.md)
 
@@ -316,31 +310,31 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## dreamcore
 
-<a href="../dreamcore/a_green_room_with_pipes.jpg"><img alt="a_green_room_with_pipes" src="../dreamcore/a_green_room_with_pipes.jpg"></a><br/><br/>
+<a href="../dreamcore/a_path_through_a_forest.jpg"><img alt="a_path_through_a_forest" src="../dreamcore/a_path_through_a_forest.jpg"></a><br/><br/>
 
-<a href="../dreamcore/a_bus_on_a_foggy_day.jpg"><img alt="a_bus_on_a_foggy_day" src="../dreamcore/a_bus_on_a_foggy_day.jpg"></a><br/><br/>
+<a href="../dreamcore/a_gas_station_with_lights_on_the_front_and_a_car_parked_in_the_front.jpg"><img alt="a_gas_station_with_lights_on_the_front_and_a_car_parked_in_the_front" src="../dreamcore/a_gas_station_with_lights_on_the_front_and_a_car_parked_in_the_front.jpg"></a><br/><br/>
 
 [Browse](../dreamcore/README.md)
 
 ## digital
 
-<a href="../digital/a_sunset_with_clouds_and_trees.png"><img alt="a_sunset_with_clouds_and_trees" src="../digital/a_sunset_with_clouds_and_trees.png"></a><br/><br/>
+<a href="../digital/a_car_with_trees_on_it.png"><img alt="a_car_with_trees_on_it" src="../digital/a_car_with_trees_on_it.png"></a><br/><br/>
 
-<a href="../digital/a_road_with_lightning_bolts_in_the_sky.png"><img alt="a_road_with_lightning_bolts_in_the_sky" src="../digital/a_road_with_lightning_bolts_in_the_sky.png"></a><br/><br/>
+<a href="../digital/a_car_on_a_road_with_purple_clouds_in_the_sky.png"><img alt="a_car_on_a_road_with_purple_clouds_in_the_sky" src="../digital/a_car_on_a_road_with_purple_clouds_in_the_sky.png"></a><br/><br/>
 
 [Browse](../digital/README.md)
 
 ## fauna
 
-<a href="../fauna/a_cartoon_of_a_bug.png"><img alt="a_cartoon_of_a_bug" src="../fauna/a_cartoon_of_a_bug.png"></a><br/><br/>
+<a href="../fauna/a_drawing_of_snakes_on_a_blue_background.png"><img alt="a_drawing_of_snakes_on_a_blue_background" src="../fauna/a_drawing_of_snakes_on_a_blue_background.png"></a><br/><br/>
 
-<a href="../fauna/a_black_and_orange_drawing_of_a_bug.png"><img alt="a_black_and_orange_drawing_of_a_bug" src="../fauna/a_black_and_orange_drawing_of_a_bug.png"></a><br/><br/>
+<a href="../fauna/a_blue_lizard_and_a_trilobite.png"><img alt="a_blue_lizard_and_a_trilobite" src="../fauna/a_blue_lizard_and_a_trilobite.png"></a><br/><br/>
 
 [Browse](../fauna/README.md)
 
 ## girl
 
-<a href="../girl/a_woman_looking_at_the_sky.jpg"><img alt="a_woman_looking_at_the_sky" src="../girl/a_woman_looking_at_the_sky.jpg"></a><br/><br/>
+<a href="../girl/a_wooden_walkway_with_benches_and_a_body_of_water.jpg"><img alt="a_wooden_walkway_with_benches_and_a_body_of_water" src="../girl/a_wooden_walkway_with_benches_and_a_body_of_water.jpg"></a><br/><br/>
 
 <a href="../girl/a_woman_standing_on_a_mountain.jpg"><img alt="a_woman_standing_on_a_mountain" src="../girl/a_woman_standing_on_a_mountain.jpg"></a><br/><br/>
 
@@ -348,17 +342,17 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## painting
 
-<a href="../painting/a_painting_of_flowers_and_a_glass_of_wine.jpg"><img alt="a_painting_of_flowers_and_a_glass_of_wine" src="../painting/a_painting_of_flowers_and_a_glass_of_wine.jpg"></a><br/><br/>
+<a href="../painting/a_pool_with_chairs_and_palm_trees.jpg"><img alt="a_pool_with_chairs_and_palm_trees" src="../painting/a_pool_with_chairs_and_palm_trees.jpg"></a><br/><br/>
 
-<a href="../painting/a_sculpture_of_a_man_with_a_face_on_his_head.png"><img alt="a_sculpture_of_a_man_with_a_face_on_his_head" src="../painting/a_sculpture_of_a_man_with_a_face_on_his_head.png"></a><br/><br/>
+<a href="../painting/a_stone_archway_with_people_walking_in_front_of_it.jpg"><img alt="a_stone_archway_with_people_walking_in_front_of_it" src="../painting/a_stone_archway_with_people_walking_in_front_of_it.jpg"></a><br/><br/>
 
 [Browse](../painting/README.md)
 
 ## nature
 
-<a href="../nature/a_group_of_white_flowers.png"><img alt="a_group_of_white_flowers" src="../nature/a_group_of_white_flowers.png"></a><br/><br/>
+<a href="../nature/a_building_in_the_woods.jpg"><img alt="a_building_in_the_woods" src="../nature/a_building_in_the_woods.jpg"></a><br/><br/>
 
-<a href="../nature/a_tree_with_pink_flowers.png"><img alt="a_tree_with_pink_flowers" src="../nature/a_tree_with_pink_flowers.png"></a><br/><br/>
+<a href="../nature/a_group_of_white_flowers.png"><img alt="a_group_of_white_flowers" src="../nature/a_group_of_white_flowers.png"></a><br/><br/>
 
 [Browse](../nature/README.md)
 
@@ -372,9 +366,9 @@ Categorized wallpaper showcase. two pictures per category.
 
 ## retro
 
-<a href="../retro/a_colorful_logo_with_white_text.png"><img alt="a_colorful_logo_with_white_text" src="../retro/a_colorful_logo_with_white_text.png"></a><br/><br/>
+<a href="../retro/a_logo_of_a_company.png"><img alt="a_logo_of_a_company" src="../retro/a_logo_of_a_company.png"></a><br/><br/>
 
-<a href="../retro/a_white_pyramids_on_a_black_background.jpg"><img alt="a_white_pyramids_on_a_black_background" src="../retro/a_white_pyramids_on_a_black_background.jpg"></a><br/><br/>
+<a href="../retro/a_computer_screen_with_a_logo.png"><img alt="a_computer_screen_with_a_logo" src="../retro/a_computer_screen_with_a_logo.png"></a><br/><br/>
 
 [Browse](../retro/README.md)
 
@@ -382,7 +376,7 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../linux/1 - e2wjzxX.jpg"><img alt="1 - e2wjzxX" src="../linux/1 - e2wjzxX.jpg"></a><br/><br/>
 
-<a href="../linux/2 - 8NoCgLA.jpg"><img alt="2 - 8NoCgLA" src="../linux/2 - 8NoCgLA.jpg"></a><br/><br/>
+<a href="../linux/3 - 6tAgnb4.jpg"><img alt="3 - 6tAgnb4" src="../linux/3 - 6tAgnb4.jpg"></a><br/><br/>
 
 [Browse](../linux/README.md)
 
@@ -390,71 +384,71 @@ Categorized wallpaper showcase. two pictures per category.
 
 <a href="../jackb/a_screenshot_of_a_video_game.jpg"><img alt="a_screenshot_of_a_video_game" src="../jackb/a_screenshot_of_a_video_game.jpg"></a><br/><br/>
 
-<a href="../jackb/a_screenshot_of_a_computer_02.jpg"><img alt="a_screenshot_of_a_computer_02" src="../jackb/a_screenshot_of_a_computer_02.jpg"></a><br/><br/>
+<a href="../jackb/a_screenshot_of_a_computer_01.jpg"><img alt="a_screenshot_of_a_computer_01" src="../jackb/a_screenshot_of_a_computer_01.jpg"></a><br/><br/>
 
 [Browse](../jackb/README.md)
 
 ## cherry
 
-<a href="../cherry/a_painting_of_a_tree_branch_with_pink_flowers.png"><img alt="a_painting_of_a_tree_branch_with_pink_flowers" src="../cherry/a_painting_of_a_tree_branch_with_pink_flowers.png"></a><br/><br/>
+<a href="../cherry/a_close_up_of_a_branch_with_pink_flowers.jpg"><img alt="a_close_up_of_a_branch_with_pink_flowers" src="../cherry/a_close_up_of_a_branch_with_pink_flowers.jpg"></a><br/><br/>
 
-<a href="../cherry/a_branch_with_pink_flowers_02.jpg"><img alt="a_branch_with_pink_flowers_02" src="../cherry/a_branch_with_pink_flowers_02.jpg"></a><br/><br/>
+<a href="../cherry/a_branch_with_pink_flowers.jpg"><img alt="a_branch_with_pink_flowers" src="../cherry/a_branch_with_pink_flowers.jpg"></a><br/><br/>
 
 [Browse](../cherry/README.md)
 
 ## architecture
 
-<a href="../architecture/a_train_on_a_track.jpg"><img alt="a_train_on_a_track" src="../architecture/a_train_on_a_track.jpg"></a><br/><br/>
+<a href="../architecture/a_street_with_buildings_in_the_background.png"><img alt="a_street_with_buildings_in_the_background" src="../architecture/a_street_with_buildings_in_the_background.png"></a><br/><br/>
 
-<a href="../architecture/a_multi-colored_building_with_many_windows.jpg"><img alt="a_multi-colored_building_with_many_windows" src="../architecture/a_multi-colored_building_with_many_windows.jpg"></a><br/><br/>
+<a href="../architecture/a_building_with_balconies_and_windows.jpg"><img alt="a_building_with_balconies_and_windows" src="../architecture/a_building_with_balconies_and_windows.jpg"></a><br/><br/>
 
 [Browse](../architecture/README.md)
 
 ## minimal
 
-<a href="../minimal/a_pool_and_a_house.jpg"><img alt="a_pool_and_a_house" src="../minimal/a_pool_and_a_house.jpg"></a><br/><br/>
+<a href="../minimal/a_landscape_of_mountains_and_a_sunset_03.png"><img alt="a_landscape_of_mountains_and_a_sunset_03" src="../minimal/a_landscape_of_mountains_and_a_sunset_03.png"></a><br/><br/>
 
-<a href="../minimal/a_group_of_white_pencils.png"><img alt="a_group_of_white_pencils" src="../minimal/a_group_of_white_pencils.png"></a><br/><br/>
+<a href="../minimal/a_donut_with_sprinkles_on_top.jpg"><img alt="a_donut_with_sprinkles_on_top" src="../minimal/a_donut_with_sprinkles_on_top.jpg"></a><br/><br/>
 
 [Browse](../minimal/README.md)
 
 ## gruvbox
 
-<a href="../gruvbox/a_graphic_of_a_clock_with_an_egyptian_symbol.jpg"><img alt="a_graphic_of_a_clock_with_an_egyptian_symbol" src="../gruvbox/a_graphic_of_a_clock_with_an_egyptian_symbol.jpg"></a><br/><br/>
-
 <a href="../gruvbox/a_close_up_of_a_plant.jpg"><img alt="a_close_up_of_a_plant" src="../gruvbox/a_close_up_of_a_plant.jpg"></a><br/><br/>
+
+<a href="../gruvbox/a_close_up_of_rocks_under_water.jpg"><img alt="a_close_up_of_rocks_under_water" src="../gruvbox/a_close_up_of_rocks_under_water.jpg"></a><br/><br/>
 
 [Browse](../gruvbox/README.md)
 
 ## fogsmoke
 
-<a href="../fogsmoke/a_mountain_with_snow_and_clouds.jpg"><img alt="a_mountain_with_snow_and_clouds" src="../fogsmoke/a_mountain_with_snow_and_clouds.jpg"></a><br/><br/>
+<a href="../fogsmoke/Bixby_Creek_Bridge_over_a_cliff.jpg"><img alt="Bixby_Creek_Bridge_over_a_cliff" src="../fogsmoke/Bixby_Creek_Bridge_over_a_cliff.jpg"></a><br/><br/>
 
-<a href="../fogsmoke/a_forest_of_trees_with_fog.jpg"><img alt="a_forest_of_trees_with_fog" src="../fogsmoke/a_forest_of_trees_with_fog.jpg"></a><br/><br/>
+<a href="../fogsmoke/a_foggy_forest_with_trees_02.jpg"><img alt="a_foggy_forest_with_trees_02" src="../fogsmoke/a_foggy_forest_with_trees_02.jpg"></a><br/><br/>
 
 [Browse](../fogsmoke/README.md)
 
 ## centered
 
-<a href="../centered/a_drawing_of_a_person_with_wings.jpg"><img alt="a_drawing_of_a_person_with_wings" src="../centered/a_drawing_of_a_person_with_wings.jpg"></a><br/><br/>
+<a href="../centered/a_window_with_trees_in_the_background.jpg"><img alt="a_window_with_trees_in_the_background" src="../centered/a_window_with_trees_in_the_background.jpg"></a><br/><br/>
 
-<a href="../centered/a_yellow_and_blue_sphere.png"><img alt="a_yellow_and_blue_sphere" src="../centered/a_yellow_and_blue_sphere.png"></a><br/><br/>
+<a href="../centered/a_black_and_white_drawing_of_a_demon_hugging_a_woman.jpg"><img alt="a_black_and_white_drawing_of_a_demon_hugging_a_woman" src="../centered/a_black_and_white_drawing_of_a_demon_hugging_a_woman.jpg"></a><br/><br/>
 
 [Browse](../centered/README.md)
 
 ## flowers
 
-<a href="../flowers/a_bouquet_of_flowers_in_a_vase.jpg"><img alt="a_bouquet_of_flowers_in_a_vase" src="../flowers/a_bouquet_of_flowers_in_a_vase.jpg"></a><br/><br/>
+<a href="../flowers/a_close_up_of_a_flower_04.jpg"><img alt="a_close_up_of_a_flower_04" src="../flowers/a_close_up_of_a_flower_04.jpg"></a><br/><br/>
 
-<a href="../flowers/a_close_up_of_a_flower_07.jpg"><img alt="a_close_up_of_a_flower_07" src="../flowers/a_close_up_of_a_flower_07.jpg"></a><br/><br/>
+<a href="../flowers/a_close_up_of_a_plant.png"><img alt="a_close_up_of_a_plant" src="../flowers/a_close_up_of_a_plant.png"></a><br/><br/>
 
 [Browse](../flowers/README.md)
 
 ## lightbulb
 
-<a href="../lightbulb/a_group_of_light_bulbs_from_the_ceiling.jpg"><img alt="a_group_of_light_bulbs_from_the_ceiling" src="../lightbulb/a_group_of_light_bulbs_from_the_ceiling.jpg"></a><br/><br/>
+<a href="../lightbulb/a_light_bulb_from_the_ceiling_01.jpg"><img alt="a_light_bulb_from_the_ceiling_01" src="../lightbulb/a_light_bulb_from_the_ceiling_01.jpg"></a><br/><br/>
 
-<a href="../lightbulb/a_person_holding_a_jar_with_lights.jpg"><img alt="a_person_holding_a_jar_with_lights" src="../lightbulb/a_person_holding_a_jar_with_lights.jpg"></a><br/><br/>
+<a href="../lightbulb/a_group_of_light_bulbs.jpg"><img alt="a_group_of_light_bulbs" src="../lightbulb/a_group_of_light_bulbs.jpg"></a><br/><br/>
 
 [Browse](../lightbulb/README.md)
 

@@ -172,8 +172,6 @@
 
 <a href="a_planter_in_a_courtyard.jpg"><img alt="a_planter_in_a_courtyard" src="a_planter_in_a_courtyard.jpg"></a>
 
-<a href="a_group_of_men_posing_for_a_picture.png"><img alt="a_group_of_men_posing_for_a_picture" src="a_group_of_men_posing_for_a_picture.png"></a>
-
 <a href="a_woman_standing_on_a_bridge_over_a_bridge_with_windmills_in_the_background.png"><img alt="a_woman_standing_on_a_bridge_over_a_bridge_with_windmills_in_the_background" src="a_woman_standing_on_a_bridge_over_a_bridge_with_windmills_in_the_background.png"></a>
 
 <a href="a_person_in_the_air_above_a_city.png"><img alt="a_person_in_the_air_above_a_city" src="a_person_in_the_air_above_a_city.png"></a>

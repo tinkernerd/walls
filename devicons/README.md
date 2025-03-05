@@ -8,7 +8,7 @@
 
 <a href="a_cartoon_of_a_telescope.png"><img alt="a_cartoon_of_a_telescope" src="a_cartoon_of_a_telescope.png"></a>
 
-<a href="a_logo_of_a_company.png"><img alt="a_logo_of_a_company" src="a_logo_of_a_company.png"></a>
-
 <a href="a_logo_of_a_poop.png"><img alt="a_logo_of_a_poop" src="a_logo_of_a_poop.png"></a>
+
+<a href="a_logo_of_a_company.png"><img alt="a_logo_of_a_company" src="a_logo_of_a_company.png"></a>
 

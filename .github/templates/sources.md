@@ -28,3 +28,4 @@ Following are roughly the sources from where I scraped these images from.
 - <https://www.reddit.com/r/animegifs/>
 - <https://github.com/wallace-aph/tiles-and-such>
 - <https://tinkernerd.dev>
+
